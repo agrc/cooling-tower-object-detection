@@ -1,6 +1,6 @@
 # TowerScout Demo Notebook
 
-This notebook contains a basic script to stand up and run the pre-trained TowerScout model on a small sample of aerial images.  [TowerScout](https://groups.ischool.berkeley.edu/TowerScout/) was developed by a group a UC Berkeley to detect cooling towers from aerial imagery to assist public health officials with Legionella investigations and preparedness.  The original [TowerScout GitHub repository](https://github.com/TowerScout/TowerScout) can be referenced for more information about the project and their model training process.
+This notebook contains a basic script to stand up and run the pre-trained TowerScout model on a small sample of aerial images. [TowerScout](https://groups.ischool.berkeley.edu/TowerScout/) was developed by a group a UC Berkeley to detect cooling towers from aerial imagery to assist public health officials with Legionella investigations and preparedness. The original [TowerScout GitHub repository](https://github.com/TowerScout/TowerScout) can be referenced for more information about the project and their model training process.
 
 ## Getting Started
 
