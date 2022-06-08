@@ -131,3 +131,4 @@ dmypy.json
 demo/runs
 yolov5/
 !yolo5/.gitkeep
+**/tower_scout/*.pt
