@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+demo/runs
+yolov5/
+!yolo5/.gitkeep
