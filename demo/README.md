@@ -1,6 +1,10 @@
-# Getting Started
+# TowerScout Demo Notebook
 
-## Prerequisites
+This notebook contains a basic script to stand up and run the pre-trained TowerScout model on a small sample of aerial images.  [TowerScout](https://groups.ischool.berkeley.edu/TowerScout/) was developed by a group a UC Berkeley to detect cooling towers from aerial imagery to assist public health officials with Legionella investigations and preparedness.  The original [TowerScout GitHub repository](https://github.com/TowerScout/TowerScout) can be referenced for more information about the project and their model training process.
+
+## Getting Started
+
+### Prerequisites
 
 This demo uses python and a Jupyter notebook. It is recommended to use Python 3.7 or greater. Visit [python.org](https://www.python.org/downloads/) and [jupyter.org](https://jupyter.org/install) for installation instructions.
 
