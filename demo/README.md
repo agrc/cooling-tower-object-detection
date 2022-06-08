@@ -39,4 +39,4 @@ The sample images should be tiled to an appropriate tile size for processing by 
 ## Start the notebook
 
 1. `jupyter notebook`
-1. Select the
+1. Select the `demo.ipynb`
